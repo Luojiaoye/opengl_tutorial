@@ -1,0 +1,5 @@
+# 忽略指定文件夹
+demos/.vs
+demos/Debug
+demos/demos
+demos/demos.sln
